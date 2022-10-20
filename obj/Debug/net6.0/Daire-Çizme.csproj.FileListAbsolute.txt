@@ -1,0 +1,15 @@
+C:\Users\gokha\Desktop\Pratikler\Daire-Çizme\bin\Debug\net6.0\Daire-Çizme.exe
+C:\Users\gokha\Desktop\Pratikler\Daire-Çizme\bin\Debug\net6.0\Daire-Çizme.deps.json
+C:\Users\gokha\Desktop\Pratikler\Daire-Çizme\bin\Debug\net6.0\Daire-Çizme.runtimeconfig.json
+C:\Users\gokha\Desktop\Pratikler\Daire-Çizme\bin\Debug\net6.0\Daire-Çizme.dll
+C:\Users\gokha\Desktop\Pratikler\Daire-Çizme\bin\Debug\net6.0\Daire-Çizme.pdb
+C:\Users\gokha\Desktop\Pratikler\Daire-Çizme\obj\Debug\net6.0\Daire-Çizme.csproj.AssemblyReference.cache
+C:\Users\gokha\Desktop\Pratikler\Daire-Çizme\obj\Debug\net6.0\Daire-Çizme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokha\Desktop\Pratikler\Daire-Çizme\obj\Debug\net6.0\Daire-Çizme.AssemblyInfoInputs.cache
+C:\Users\gokha\Desktop\Pratikler\Daire-Çizme\obj\Debug\net6.0\Daire-Çizme.AssemblyInfo.cs
+C:\Users\gokha\Desktop\Pratikler\Daire-Çizme\obj\Debug\net6.0\Daire-Çizme.csproj.CoreCompileInputs.cache
+C:\Users\gokha\Desktop\Pratikler\Daire-Çizme\obj\Debug\net6.0\Daire-Çizme.dll
+C:\Users\gokha\Desktop\Pratikler\Daire-Çizme\obj\Debug\net6.0\refint\Daire-Çizme.dll
+C:\Users\gokha\Desktop\Pratikler\Daire-Çizme\obj\Debug\net6.0\Daire-Çizme.pdb
+C:\Users\gokha\Desktop\Pratikler\Daire-Çizme\obj\Debug\net6.0\Daire-Çizme.genruntimeconfig.cache
+C:\Users\gokha\Desktop\Pratikler\Daire-Çizme\obj\Debug\net6.0\ref\Daire-Çizme.dll
